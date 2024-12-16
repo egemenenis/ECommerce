@@ -1,0 +1,100 @@
+.user-add-user-container {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 50px;
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif;
+}
+
+.user-h2 {
+  text-align: center;
+  font-size: 2.2rem;
+  color: #333;
+  margin-bottom: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.user-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.user-div {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.user-label {
+  font-size: 1rem;
+  color: #555;
+  font-weight: bold;
+}
+
+.user-input {
+  padding: 12px;
+  font-size: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.3s ease-in-out;
+}
+
+.user-input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.user-button {
+  background-color: #007bff;
+  color: white;
+  padding: 15px;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.user-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.user-button:disabled {
+  background-color: #aaa;
+  cursor: not-allowed;
+}
+
+.user-input[type="number"]::-webkit-outer-spin-button,
+.user-input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.user-input[type="number"]:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+@media (max-width: 768px) {
+  .user-add-user-container {
+    padding: 20px;
+    margin: 20px;
+  }
+
+  .user-h2 {
+    font-size: 1.8rem;
+  }
+
+  .user-input,
+  .user-button {
+    font-size: 1rem;
+  }
+}

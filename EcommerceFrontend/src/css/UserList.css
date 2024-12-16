@@ -1,0 +1,138 @@
+.user-list-container {
+  max-width: 1200px;
+  margin: 50px auto;
+  padding: 40px;
+  background-color: #f4f7fc;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow: hidden;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+}
+
+.user-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.user-item {
+  background-color: #ffffff;
+  margin: 40px 0;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.user-item:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+.user-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: #34495e;
+  border: 2px solid #dcdcdc;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.info-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.info-item strong {
+  color: #007bff;
+  min-width: 140px;
+}
+
+.info-item span {
+  color: #333;
+  font-weight: 500;
+}
+
+.delete-btn {
+  padding: 12px 25px;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s, transform 0.2s ease, box-shadow 0.2s;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  align-self: flex-start;
+}
+
+.delete-btn:hover {
+  background-color: #c0392b;
+  transform: scale(1.05);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.delete-btn:active {
+  transform: scale(1);
+}
+
+.loading,
+.error {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+.loading {
+  color: #3498db;
+}
+
+.error {
+  color: #e74c3c;
+}
+
+@media (max-width: 768px) {
+  .user-list-container {
+      padding: 25px;
+      margin: 20px;
+  }
+
+  .title {
+      font-size: 1.8rem;
+  }
+
+  .user-info {
+      grid-template-columns: 1fr;
+      gap: 10px;
+  }
+
+  .info-item {
+      font-size: 14px;
+      padding: 5px;
+  }
+
+  .delete-btn {
+      margin-top: 15px;
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+  }
+}

@@ -1,0 +1,12 @@
+/* Rating.css */
+.rating {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+  }
+  
+  .star {
+    color: gold;
+    font-size: 1.2rem;
+  }
+  

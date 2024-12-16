@@ -1,0 +1,21 @@
+.product-item .rating {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+  }
+  
+  .product-item .rating .star {
+    color: gold;
+    font-size: 1.2rem;
+  }
+
+  .star {
+    font-size: 20px;
+    color: gray;
+  }
+  
+  .star.filled {
+    color: gold;
+  }
+  
+  

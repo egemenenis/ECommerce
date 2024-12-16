@@ -1,0 +1,14 @@
+.price {
+  font-size: 18px;
+}
+
+.discount {
+  text-decoration: line-through;
+  color: red;
+  margin-right: 10px;
+}
+
+.special-price {
+  font-weight: bold;
+  color: green;
+}

@@ -1,0 +1,108 @@
+.merchant-list-container {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-size: 30px;
+    color: #333;
+    margin-bottom: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.merchant-list {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    width: 100%;
+}
+
+.merchant-item {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: all 0.3s ease;
+    align-items: center; 
+    justify-content: flex-start;
+    min-height: 200px;
+    position: relative;
+}
+
+.merchant-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.merchant-info {
+    color: #333;
+    text-align: right;
+    width: 100%;
+}
+
+.merchant-info h3 {
+    font-size: 22px;
+    margin-bottom: 15px;
+    color: #007bff;
+    text-align: right;
+}
+
+.merchant-info p {
+    font-size: 16px;
+    margin: 5px 0;
+    line-height: 1.5;
+    color: #555;
+    text-align: left; 
+}
+
+.merchant-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.delete-btn {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: auto;
+    transition: background-color 0.3s ease;
+    align-self: stretch;
+}
+
+.delete-btn:hover {
+    background-color: #c0392b;
+}
+
+.loading, .error {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.loading {
+    color: #3498db;
+}
+
+.error {
+    color: #e74c3c;
+}

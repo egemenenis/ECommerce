@@ -1,0 +1,140 @@
+.add-merchant-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f3f4f6;
+  font-family: 'Roboto', sans-serif;
+}
+
+.form-wrapper {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  max-width: 1000px;
+  width: 100%;
+  margin: 20px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.4rem;
+  color: #444444;
+  margin-bottom: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+}
+
+label {
+  font-size: 1.1rem;
+  color: #666666;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+input,
+textarea {
+  padding: 15px;
+  font-size: 1.1rem;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #4caf50;
+  box-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
+}
+
+textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 15px;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+  margin-top: 20px;
+  box-shadow: 0 5px 15px rgba(76, 175, 80, 0.2);
+}
+
+button:hover {
+  background-color: #388e3c;
+  transform: scale(1.05);
+}
+
+button:disabled {
+  background-color: #9e9e9e;
+  cursor: not-allowed;
+}
+
+.checkbox-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 48%;
+}
+
+.error-message {
+  color: #f44336;
+  text-align: center;
+  font-size: 1.1rem;
+  margin-top: 20px;
+}
+
+.loading-indicator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  color: #4caf50;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .form-group {
+    width: 100%;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+
+  button {
+    font-size: 1rem;
+    padding: 12px;
+  }
+
+  .error-message {
+    font-size: 1rem;
+  }
+
+  .loading-indicator {
+    font-size: 1rem;
+  }
+}
