@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\dataaccess\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\dataaccess\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\controllers\\discountcodecontroller.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\discountcodecontroller.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\controllers\\shippingmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\shippingmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\controllers\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\models\\shippingmethodmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\shippingmethodmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\models\\paymentmethodmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\paymentmethodmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\models\\merchantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\merchantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\models\\discountcodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\discountcodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\egemen.ertas\\desktop\\e-commerce\\ecommercebackend\\ecommercebackend\\ecommercebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1C7458D-B8C7-40DE-B2A6-8CD910F8A378}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\ecommercebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MerchantController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\MerchantController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\MerchantController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\MerchantController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\MerchantController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:47:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:46:44.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:49:10.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountCodeController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\DiscountCodeController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\DiscountCodeController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\DiscountCodeController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\DiscountCodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:47:58.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentMethodController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\PaymentMethodController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\PaymentMethodController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\PaymentMethodController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\PaymentMethodController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:47:25.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShippingMethodController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\ShippingMethodController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\ShippingMethodController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\ShippingMethodController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\ShippingMethodController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:47:43.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\ProductModel.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:04:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MerchantModel.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\MerchantModel.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\MerchantModel.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\MerchantModel.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\MerchantModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:03:33.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\DataAccess\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\DataAccess\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\DataAccess\\DatabaseContext.cs",
+              "RelativeToolTip": "EcommerceBackend\\DataAccess\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:44:55.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\UserModel.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:03:53.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiscountCodeModel.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\DiscountCodeModel.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\DiscountCodeModel.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\DiscountCodeModel.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\DiscountCodeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:37:45.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentMethodModel.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\PaymentMethodModel.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\PaymentMethodModel.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\PaymentMethodModel.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\PaymentMethodModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:05:03.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShippingMethodModel.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\ShippingMethodModel.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\ShippingMethodModel.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\Models\\ShippingMethodModel.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\ShippingMethodModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:04:35.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EcommerceBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
+              "RelativeDocumentMoniker": "EcommerceBackend\\EcommerceBackend.csproj",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\E-Commerce\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
+              "RelativeToolTip": "EcommerceBackend\\EcommerceBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T07:58:18.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
